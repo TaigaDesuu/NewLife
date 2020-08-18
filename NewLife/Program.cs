@@ -6,7 +6,7 @@ namespace NewLife
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Shit");
+            Console.WriteLine("qweer");
 
         }
     }
